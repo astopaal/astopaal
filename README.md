@@ -23,6 +23,6 @@ Here you can find the software I have developed during my education life.
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnetcore Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter Logo" width="50" height="50"/> 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astopaal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Github stats](https://github-readme-stats.vercel.app/api?username=astopaal&theme=highcontrast&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astopaal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)         ![Github stats](https://github-readme-stats.vercel.app/api?username=astopaal&theme=highcontrast&show_icons=true&count_private=true)
 ---
 
