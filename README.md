@@ -16,7 +16,7 @@ Here you can find the software I have developed during my education life.
 
 ---
 
-<p align="left"> <a href="https://twitter.com/astopaal" target="blank"><img src="https://img.shields.io/twitter/follow/astopaal?logo=twitter&style=for-the-badge" alt="astopaal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sametdotjs" target="blank"><img src="https://img.shields.io/twitter/follow/sametdotjs?logo=twitter&style=for-the-badge" alt="sametdotjs" /></a> </p>
 
 ---
 
