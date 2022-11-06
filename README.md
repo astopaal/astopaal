@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ishika kesarwani</h1>
+<h5 align="center">
+A 4th-year student pursuing Bachelors in Computer science studies with a specialization of AIML, from UPES Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
+</h5>
 
 
 Here you can find the software I have developed during my education life.
@@ -8,6 +13,10 @@ Here you can find the software I have developed during my education life.
 - 🌱 I’m currently learning blockchain app-core technologies and front-end frameworks.
 - 💬 Ask me about PHP, .Net Framework - Windows Forms, Python and Asp.Net Core.
 - 📫 How to reach me: https://instagr.am/astopall - astopaal@gmail.com (i'm currently developing my personal website :)
+
+---
+
+<p align="left"> <a href="https://twitter.com/astopaal" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="astopaal" /></a> </p>
 
 ---
 
