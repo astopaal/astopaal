@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Ishika kesarwani</h1>
+         width="45" />, I'm Samet Topal</h1>
 <h5 align="center">
-A 4th-year student pursuing Bachelors in Computer science studies with a specialization of AIML, from UPES Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
+A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web, from Kirklareli - Türkiye. I am a Blackchain enthusiast, Web developer, and a youtuber??.
 </h5>
 
 
