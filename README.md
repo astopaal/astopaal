@@ -11,8 +11,8 @@ Here you can find the software I have developed during my education life.
 
 - 🔭 I’m focusing to improve my coding skills.
 - 🌱 I’m currently learning blockchain app-core technologies and front-end frameworks.
-- 💬 Ask me about PHP, .Net Framework - Windows Forms, Python and Asp.Net Core.
-- 📫 How to reach me: https://instagr.am/astopall - astopaal@gmail.com (i'm currently developing my personal website :)
+- 💬 Ask me about PHP, .Net Framework - Windows Forms, Python, React and Node.
+- 📫 How to reach me: https://instagr.am/astopaal - astopaal@gmail.com (I'm currently developing my personal website :)
 
 ---
 
