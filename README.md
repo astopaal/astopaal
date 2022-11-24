@@ -29,8 +29,11 @@ Here you can find the software I have developed during my education life.
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="TCSS Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnetcore Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/> 
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astopaal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
