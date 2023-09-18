@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Samet Topal</h1>
 <h5 align="center">
-A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer, and a youtuber??.
+A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer and currntly working at <a href="https://techmax.com.tr" target="blank">Techmax Technology</a>. 
 </h5>
 
 
