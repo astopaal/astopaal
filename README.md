@@ -3,15 +3,15 @@
          height="45"
          width="45" />, I'm Samet Topal</h1>
 <h5 align="center">
-A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer and currntly working at <a href="https://techmax.com.tr" target="blank">Techmax Technology</a>. 
+A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer and currently working as Full Stack Engineer at <a href="https://techmax.com.tr" target="blank">Techmax Technology</a>. 
 </h5>
 
 
-Here you can find the software I have developed during my education life.
+Here you can find some repos I have developed during my free time.
 
 - 🔭 I’m focusing to improve my coding skills.
 - 🌱 I’m currently learning blockchain app-core technologies and front-end frameworks.
-- 💬 Ask me about PHP, .Net Framework - Windows Forms, Python, React and Node.
+- 💬 Ask me about Android (Java with SDK / API level 27 and less), PHP, .Net Framework - Windows Forms, Python, React and Node.
 - 📫 How to reach me: https://instagr.am/astopaal - astopaal@gmail.com (I'm currently developing my personal website :)
 
 ---
@@ -32,6 +32,7 @@ Here you can find the software I have developed during my education life.
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Logo" width="50" height="50"/> 
 
 
 ---
