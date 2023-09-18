@@ -29,10 +29,11 @@ Here you can find some repos I have developed during my free time.
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="TCSS Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Logo" width="50" height="50"/> 
+
 
 
 ---
