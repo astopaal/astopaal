@@ -26,18 +26,9 @@ Here you can find some repos I have developed during my free time.
 ---
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ---
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="TCSS Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> 
-
-
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astopaal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
+[![](https://visitcount.itsvg.in/api?id=astopaal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
