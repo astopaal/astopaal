@@ -2,8 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Samet Topal</h1>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/107423523/246919736-38798335-0548-4e50-b452-a52266469235.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231130T170008Z&X-Amz-Expires=300&X-Amz-Signature=da8febf846b12c9e6212afcc3e88f1fa40f0b99f931718ee60bef3ab60b82923&X-Amz-SignedHeaders=host&actor_id=85809119&key_id=0&repo_id=562247784" />
 <h5 align="center">
-A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer and currently working as Full Stack Engineer at <a href="https://techmax.com.tr" target="blank">Techmax Technology</a>. 
+A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web and Android, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer and currently working as Full Stack Engineer at <a href="https://techmax.com.tr" target="blank">Techmax Technology</a>. 
 </h5>
 
 
@@ -20,10 +21,11 @@ Here you can find some repos I have developed during my free time.
 
 ---
 
-🧰 Toolbox
+🧰 Tech Stack
 
 ---
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+---
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Logo" width="50" height="50"/> 
