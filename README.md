@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Samet Topal</h1>
+         width="45" />, I'm Samet</h1>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/107423523/246919736-38798335-0548-4e50-b452-a52266469235.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231130T170008Z&X-Amz-Expires=300&X-Amz-Signature=da8febf846b12c9e6212afcc3e88f1fa40f0b99f931718ee60bef3ab60b82923&X-Amz-SignedHeaders=host&actor_id=85809119&key_id=0&repo_id=562247784" />
 <h5 align="center">
 A 4th-year student pursuing Bachelors in Software Engineering studies with a specialization of Web and Android, from Kirklareli - Türkiye. I am a Blockchain enthusiast, Web developer and currently working as Full Stack Engineer at <a href="https://techmax.com.tr" target="blank">Techmax Technology</a>. 
