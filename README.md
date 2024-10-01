@@ -10,7 +10,7 @@ I am a software engineer working mostly on Web and Android, from Izmir - Türkiy
 
 Here you can find some repos I have developed during my free time.
 
-- 💬 Ask me about Android (Java with SDK / API level 27 and less), PHP, .Net Framework - Windows Forms, Python, React and Node.
+- 💬 Ask me about Android (Java / Kotlin), .Net, PHP, JS and React.
 - 📫 How to reach me: https://instagr.am/astopaal - astopaal@gmail.com (I'm currently developing my personal website
 
 ---
