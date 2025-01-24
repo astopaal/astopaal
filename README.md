@@ -11,8 +11,7 @@ I am a software engineer working mostly on Web and Android, from Izmir - Türkiy
 Here you can find some repos I have developed during my free time.
 
 - 💬 Ask me about Android (Java / Kotlin), .Net, PHP, JS and React.
-- 📫 How to reach me: https://instagr.am/astopaal - astopaal@gmail.com (I'm currently developing my personal website
-
+- 📫 How to reach me: https://instagr.am/astopaal - astopaal@gmail.com - <a href="https://twitter.com/sametdotjs">Personal Website</a>
 ---
 
 <p align="left"> <a href="https://twitter.com/sametdotjs" target="blank"><img src="https://img.shields.io/twitter/follow/sametdotjs?logo=twitter&style=for-the-badge" alt="sametdotjs" /></a> </p>
